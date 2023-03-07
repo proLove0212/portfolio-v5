@@ -2,7 +2,7 @@
 date: '1'
 title: 'ちりめん山椒'
 cover: './logo.png'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'http://www.ajinokaomise.co.jp/'
 tech:
   - EC-CUBE

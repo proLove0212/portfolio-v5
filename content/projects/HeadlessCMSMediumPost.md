@@ -1,7 +1,7 @@
 ---
 date: '2019-11-12'
 title: 'ANRI 10th Anniversary'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://anri.vc/anri-10th-anniversary'
 tech:
   - Vue.js

@@ -3,7 +3,7 @@ date: '2018-2-21'
 title: 'webプログラマー'
 company: 'CMC GLOBAL'
 location: 'Yokohama, Japan'
-range: '2018年 3月 ~ 2018年 5月'
+range: '2019年 4月 ~ 2020年 12月'
 url: 'https://cmcglobal.com.vn/'
 ---
 

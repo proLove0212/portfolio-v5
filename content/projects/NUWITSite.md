@@ -1,7 +1,7 @@
 ---
 date: '2015-12-20'
 title: 'あいはら歯科医院'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://aihara-dental.jp/'
 tech:
   - WordPress

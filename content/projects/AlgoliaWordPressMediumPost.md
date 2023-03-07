@@ -1,7 +1,7 @@
 ---
 date: '2020-03-27'
 title: '桜十字病院'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://www.sakurajyuji.or.jp/'
 tech:
   - React

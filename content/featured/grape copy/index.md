@@ -2,7 +2,7 @@
 date: '4'
 title: 'E SALON'
 cover: './demo.png'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://esalon-srl.com/'
 tech:
   - WordPress

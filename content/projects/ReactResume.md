@@ -1,7 +1,7 @@
 ---
 date: '2016-08-01'
 title: '世にもおいしいチョコブラウニー'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://yonimo.jp/'
 tech:
   - React

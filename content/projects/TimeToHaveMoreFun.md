@@ -1,7 +1,7 @@
 ---
 date: '2020-01-10'
 title: 'RXプロ'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://rx-pro.co.jp/'
 tech:
   - WordPress

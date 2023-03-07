@@ -1,7 +1,7 @@
 ---
 date: '2019-07-15'
 title: '幕張ベイパーク耳鼻咽喉科'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://makuhari-jibika.yukenkai.com/'
 tech:
   - WordPress

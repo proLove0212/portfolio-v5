@@ -3,7 +3,7 @@ date: '2017-01-01'
 title: 'フラッシャー'
 company: 'CMC GLOBAL'
 location: 'Yokohama, Japan'
-range: '2017年6月 ~ 2018年2月'
+range: '2018年1月 ~ 2019年4月'
 url: 'https://cmcglobal.com.vn/'
 ---
 

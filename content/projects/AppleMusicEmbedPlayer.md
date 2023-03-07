@@ -1,7 +1,7 @@
 ---
 date: '2017-12-01'
 title: '愛犬愛猫にも菌ケアを。'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://yourkins.com/'
 tech:
   - EC Force

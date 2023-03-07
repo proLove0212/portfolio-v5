@@ -1,7 +1,7 @@
 ---
 date: '2017-11-01'
 title: 'CAFE CINNAMON '
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://es-cinnamon.cafe/'
 tech:
   - WordPress

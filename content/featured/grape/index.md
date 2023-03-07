@@ -2,7 +2,7 @@
 date: '2'
 title: 'Grape Shop'
 cover: './demo.png'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://shop.grapee.jp/'
 tech:
   - Shopify

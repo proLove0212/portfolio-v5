@@ -1,7 +1,7 @@
 ---
 date: '2018-12-29'
 title: 'ユースキン ハナ ブランドサイト'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'https://hana.yuskin.co.jp/'
 tech:
   - Vue

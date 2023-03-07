@@ -2,7 +2,7 @@
 date: '3'
 title: '日本遺産 大山'
 cover: './course-card.png'
-github: 'https://github.com/proLove0212'
+# github: 'https://github.com/proLove0212'
 external: 'http://daisen-japan-heritage.jp/'
 tech:
   - Django
